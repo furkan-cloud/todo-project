@@ -20,4 +20,4 @@ const [text, setText] = useState("");
   );
 };
 
-export default TodoInput;
+export {TodoInput};
