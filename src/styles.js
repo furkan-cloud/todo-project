@@ -35,7 +35,7 @@ const todo_input =StyleSheet.create({
         backgroundColor: "#64b5f6",
     },
     buttonContainer: {
-        backgroundColor: "red",
+        backgroundColor: "#002171",
         padding: 10,
         margin: 10,
         width: Dimensions.get("window").width / 2,
